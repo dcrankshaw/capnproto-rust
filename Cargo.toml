@@ -28,5 +28,6 @@ quickcheck = "0.2"
 rpc = ["gj"]
 
 [dependencies.gj]
-version = "0.1"
+# version = "0.1"
+git = "https://github.com/dcrankshaw/gj"
 optional = true
